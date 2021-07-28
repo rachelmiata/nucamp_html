@@ -1,0 +1,55 @@
+.img {
+    display: block;
+    margin: 10px auto;
+    border-radius: 50%;
+    border: ridge gold 10px;
+}
+
+body {
+    color: white;
+    margin: auto;
+    text-align: center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBSSdbPfeSKsC45SJcXEx2hAxDS0CcxUvfgxtHdQ2ZuD2IOOtQi2YqyBV0W5sZXG9zxeU&usqp=CAU");
+
+}
+
+
+section {
+    background-color: black;
+    padding: 10px;
+    border: yellow solid 1px;
+
+}
+
+div {
+    margin: 20px auto;
+}
+
+a {
+    color: gold;
+
+}
+
+h1 {
+    text-align: center;
+    font-family: "Times New Roman";
+    text-shadow: 2px 2px 2px gold,
+                 3px 3px 2px gold;
+    font-size: 400%;
+}
+
+h2 {
+    text-shadow: 2px 2px 2px gold;
+    background-color: black;
+    margin-left: 25px;
+}
+
+audio {
+    margin: 10px auto;
+}
+
+.img2 {
+    margin: 10px auto;
+    width: 200px;
+}
+
